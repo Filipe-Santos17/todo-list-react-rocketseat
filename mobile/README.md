@@ -2,7 +2,7 @@
 ## todo list of rocketseat challenge
 
 ## 📱 Images
-![AppPrint](/assets/git-profile.jpeg "App print screen")
+![AppPrint](./assets/git-profile.jpeg "App print screen")
 
 ## :four_leaf_clover: Technologies used
 
@@ -20,10 +20,11 @@ To clone and upload the application, you need [Git](https://git-scm.com), [Node.
 
 ```bash
 # Make a clone of the application.
-$ git clone https://github.com/Filipe-Santos17/todo-rocket
+$ git clone https://github.com/Filipe-Santos17/todo-list-react-rocketseat
 
 # Open the folder.
-$ cd todo-rocket
+$ cd todo-list-react-rocketseat/mobile
+
 
 # Install the dependencies.
 $ npm install
